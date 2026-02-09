@@ -18,7 +18,7 @@ Selected:
 Windows hosts version
 
 Screenshot:
-![VM Creation](/screenshots/virtualbox-installed.png)
+![VM Creation](/virtualization/screenshots/virtualbox-installed.png)
 
 
 ### 2. Install VirtualBox
