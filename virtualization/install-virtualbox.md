@@ -32,7 +32,7 @@ BIOS Settings:
 - AMD: Enable SVM Mode
 
 Screenshot:
-![VirtualBox Installed](../screenshots/virtualbox.png)
+![VirtualBox Installed](/virtualization/screenshots/virtualbox.png)
 
 
 ### 3. Download Windows ISO
@@ -42,7 +42,7 @@ https://www.microsoft.com/software-download/
 Used Media Creation Tool to download the ISO file.
 
 Screenshot:
-![Windows ISO Download](../screenshots/windows-iso-download.png)
+![Windows ISO Download](/virtualization/screenshots/windows-iso-download.png)
 
 
 ### 4. Launch VirtualBox and Create VM
@@ -57,10 +57,10 @@ Configuration used:
 - OS: Windows 10 / Windows 11
 
 Screenshot:
-![VM Creation](../screenshots/vmsetup.png)
+![VM Creation](/virtualization/screenshots/vmsetup.png)
 
 Screenshot:
-![VM Creation](../screenshots/vmwin10.png)
+![VM Creation](/virtualization/screenshots/vmwin10.png)
 
 
 ## Result
