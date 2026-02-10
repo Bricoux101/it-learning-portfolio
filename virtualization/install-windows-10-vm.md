@@ -10,22 +10,22 @@ Install Windows 10 in VirtualBox for IT lab and training.
 ## Step 1: Create Virtual Machine
 
 Created VM with:
-- 4GB RAM
+- 2GB RAM
 - 50GB storage
 
 Screenshot:
-![VM Created](screenshots/vm-created.png)
+![VM Created](/virtualization/screenshots/virtualbox.png)
 
----
+
 
 ## Step 2: Install Windows 10
 
 Installed Windows using ISO file.
 
 Screenshot:
-![Windows Install](screenshots/windows-installed.png)
+![Windows Install](/virtualization/screenshots/windows-iso-download.png)
 
----
+
 
 ## Step 3: Windows Desktop Ready
 
