@@ -14,24 +14,28 @@ Created VM with:
 - 60GB storage
 
 Screenshot:
-![VM Created](screenshots/server-vm-created.png)
+![VM Created](/windows-server/screenshots/vmserver2016.png)
 
----
+
 
 ## Step 2: Install Windows Server
 
 Installed Windows Server 2016 Desktop Experience.
 
 Screenshot:
-![Server Installed](screenshots/server-installed.png)
+![Server Installed](/windows-server/screenshots/downloadedserver2016.png)
 
----
+
 
 ## Result
 
-Windows Server 2016 installed successfully.
+Windows Server 2016 installed successfully, and customised settings and the computer's name were changed to make it easier to map a network drive.
 
----
+Screenshot:
+![Server Installed](/windows-server/screenshots/server2016lab.png)
+
+Screenshot:
+![Changed Computers Name](/windows-server/screenshots/computername_domain.png)
 
 ## Skills Learned
 
