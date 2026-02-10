@@ -46,7 +46,7 @@ Screenshot:
 Opened Active Directory Users and Computers.
 
 Screenshot:
-![Active Directory Open](/windows-serverscreenshots/Active Directory Domain Services.png)
+![Active Directory Open](/windows-server/screenshots/Active_Directory_Domain_Services.png)
 
 
 
