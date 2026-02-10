@@ -32,9 +32,8 @@ Screenshot:
 Windows installation completed successfully.
 
 Screenshot:
-![Windows Desktop](screenshots/windows-desktop.png)
+![Windows Desktop](/virtualization/screenshots/vmwin10.png)
 
----
 
 ## Result
 
