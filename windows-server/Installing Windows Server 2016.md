@@ -1,7 +1,7 @@
 # Installing Windows Server 2016 in VirtualBox
 
 ## Objective
-Install Windows Server 2022 to build Active Directory lab environment.
+Install Windows Server 2016 to build Active Directory lab environment.
 
 ## Tools Used
 - Oracle VirtualBox
