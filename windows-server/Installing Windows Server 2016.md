@@ -42,3 +42,4 @@ Screenshot:
 - Installing Windows Server
 - Virtual machine configuration
 - Server deployment basics
+- Password B12345@
