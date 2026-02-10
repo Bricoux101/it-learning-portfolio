@@ -53,7 +53,7 @@ Screenshot:
 
 
 
-## Command 3: net use
+## Command 3: net user
 
 ### Purpose
 Displays active network connections and mapped network drives.
@@ -62,7 +62,7 @@ Displays active network connections and mapped network drives.
 This confirms there are currently no mapped network drives or active network connections.
 
 Screenshot:  
-![net use](/windows-server/screenshots/netuse.png)
+![net use](/windows-server/screenshots/net_use.png)
 
 
 ## Command 4: net user helpdesk /domain
@@ -87,7 +87,7 @@ Displays domain user account details including:
 This confirms the user exists and is properly configured in Active Directory.
 
 Screenshot:  
-![net user helpdesk](/windows-server/screenshots/netuser.png)
+![net user helpdesk](/windows-server/screenshots/net_user.png)
 
 
 
